@@ -26,11 +26,11 @@ La aplicación ha sido desarrollada en Android con el back-end de Firebase. Se h
 ## Miembros del equipo - Estudiantes de la FIB - UPC
 
 * Marcel Costa: marcel.dfga@gmail.com
-* Erika Morales: 
-* Eric Perez:
-* Meraj:
-* Alejandro Gómez:
-* Jordi:
+* Erika Morales
+* Eric Perez
+* Meraj
+* Alejandro Gómez
+* Jordi
 * Sufang Zhou
 
 
