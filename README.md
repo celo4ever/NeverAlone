@@ -31,6 +31,7 @@ La aplicación ha sido desarrollada en Android con el back-end de Firebase. Se h
 * Meraj:
 * Alejandro Gómez:
 * Jordi:
+* Sufang Zhou
 
 
 ## Licencia
