@@ -1,13 +1,13 @@
 # NeverAlone
 
-Esta es una aplicación nativa para Android desarrollada por estudiantes de la Facultad de Informática de Barcelona desde zero.
+Esta es una aplicación nativa para Android desarrollada por estudiantes de la Facultad de Informática de Barcelona desde cero.
 La finalidad de la app es ayudar a personas vulnerables (edad avanzada, problemas de salud, problemas de movilidad) a poder realizar 
-tareas diarias así como: realizar la compra, obtener ayuda psicologica o de movilidad, etc... mediante la publicación de peticiones
+tareas diarias así como: realizar la compra, obtener ayuda psicológica o de movilidad, etc... mediante la publicación de peticiones
 que otros usuarios voluntarios podrán ofrecerse a realizar.
 
-## Tecnologias
+## Tecnologías
 
-La aplicación ha sido desarrollada en Android con el back-end de Firebase. Se han usado APIs de google para el uso de maps así como LogIn.
+La aplicación ha sido desarrollada en Android con el back-end de Firebase. Se han usado APIs de Google para el uso de maps así como LogIn.
 
 ## Vista al detalle
 
